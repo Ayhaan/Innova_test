@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "krona";
+  src: url("../../fonts/KronaOne-Regular.ttf");
+}
+.aboutMe {
+  font-family: krona;
+}
+
+/*# sourceMappingURL=main.css.map */
