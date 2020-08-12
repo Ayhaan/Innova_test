@@ -36,7 +36,7 @@ function App() {
               <li className="test"><Link to='/about'> About </Link></li>
               {/* <i className="ion-ios-circle-filled color"></i> */}
               <li className="test"><Link to='/service'> service </Link></li>
-              <li className="test"><Link to='/portfolio'> portfolio </Link></li>
+              <li className="test test3"><Link to='/portfolio'> portfolio </Link></li>
               <li className="test"><Link to='/contact'> contact me </Link></li>
 
               <li className="box-label">Follow me</li>
