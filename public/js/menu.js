@@ -56,9 +56,9 @@ jQuery(document).ready(function ($) {
 		setTimeout(function(){ window.location.reload() }, 400);
 		
 	})
-	$('.test3').on('click', function () {
+	// $('.test3').on('click', function () {
 	
-		setTimeout(function(){ location.reload() }, 500);
+	// 	setTimeout(function(){ location.reload() }, 500);
 		
-	})
+	// })
 });
