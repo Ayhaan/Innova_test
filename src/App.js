@@ -32,7 +32,7 @@ function App() {
             <ul className="box-primary-nav">
               <li className="box-label">About me</li>
 
-              <li className="test2"><Link to='/'> home </Link></li>
+              <li className=" test test2"><Link to='/'> home </Link></li>
               <li className="test"><Link to='/about'> About </Link></li>
               {/* <i className="ion-ios-circle-filled color"></i> */}
               <li className="test"><Link to='/service'> service </Link></li>

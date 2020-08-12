@@ -53,12 +53,11 @@ jQuery(document).ready(function ($) {
 				
 	})
 	$('.test2').on('click', function () {
-		;
-		setTimeout(function(){ window.location.reload() }, 200);
+		setTimeout(function(){ window.location.reload() }, 400);
 		
 	})
 	$('.test3').on('click', function () {
-		;
+	
 		setTimeout(function(){ window.location.reload() }, 500);
 		
 	})
