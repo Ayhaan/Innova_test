@@ -58,7 +58,7 @@ jQuery(document).ready(function ($) {
 	})
 	$('.test3').on('click', function () {
 	
-		setTimeout(function(){ window.location.reload() }, 500);
+		setTimeout(function(){ location.reload() }, 500);
 		
 	})
 });
